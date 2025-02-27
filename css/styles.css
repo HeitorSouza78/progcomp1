@@ -4,10 +4,10 @@ body {
     justify-content: center; /* centraliza na horizontal */
     height: 100vh; /* altura da página é todo o conteúdo dela */
     align-items: center; /* centraliza na vertical */
-    background-color: cyan;
+    background-color: rgb(148, 6, 6);
 }
 .container {
-    background-color: white;
+    background-color: rgb(197, 195, 195);
     padding: 20px; /* espaçamento interno */
     border-radius: 10px; /* bordas arredondadas */
     /* sombreamento 4px (horizontal) 8px (vertical) */
@@ -20,7 +20,7 @@ h2 {
 }
 
 button {
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
     color: white;
     border: none;
     padding: 5px; /* espaçamento interno */
