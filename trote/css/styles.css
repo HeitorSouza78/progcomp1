@@ -61,3 +61,26 @@ table tr td{
 table{
     margin: 0 auto; /*centraliza a página */
 }
+.laranja{
+    background-color: orange;
+}
+.preto{
+    background-color: black;
+    color: aliceblue;
+}
+.roxo{
+    background-color: purple;
+}
+.verde{
+    background-color: #28a745;
+}
+.vermelho{
+    background-color: red;
+}
+.azul{
+    background-color: navy;
+    color: white;
+}
+.cinza{
+    background-color: gray;
+}
