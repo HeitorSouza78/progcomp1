@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    font-size: larger;
     margin: 0; /* espaçamento externop da página */
     padding: 0; /* espaçamento interno da página*/
     background-color: rgb(112, 108, 108);
@@ -9,7 +10,7 @@ body {
        background-color: #eb9800;
        color: rgb(0, 0, 0);
        /*15px (espaçamento interno acima e abaixo) e opx ( direita e esquerda) */
-       padding: 15px 0px;
+       padding: 15px 0px;   
        font-size: 24px;
    }
    nav {
@@ -54,12 +55,18 @@ body {
    }
    ol li{
        padding-bottom: 10px;
+       margin-bottom: 20px;
    }
    table tr td{
        padding: 20px;
    }
    table{
        margin: 0 auto; /*centraliza a página */
+       margin-bottom: 50px;
+       border-collapse: collapse;
+       font-family: 'Times New Roman', Times, serif;
+       
+
    }
    .laranja{
        background-color: orange;
@@ -86,4 +93,7 @@ body {
    }
    .campos {
        margin-bottom: 20px;
+   }
+   h3{
+     text-align: center;
    }
